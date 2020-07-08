@@ -4,11 +4,11 @@ package com.mycompany.app;
  * Hello world!
  *
  */
-class App 
+class BasicCode 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Basic Code!" );
     }
 }
 
